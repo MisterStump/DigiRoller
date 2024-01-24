@@ -1,7 +1,4 @@
 # DigiRoller
-## By: MrStump
-
--------------------------
 
 ## What is it?
 The DigiRoller is a pocket digital die roller designed for D&D/Tabletop gaming. Use it to make a handfull of simple rolls, or to roll a ton of dice all at once. I am posting this project because what got me into it was seeing all the other neat things people make. I wanted to maybe help inspire someone to try something too.
