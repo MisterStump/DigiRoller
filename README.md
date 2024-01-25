@@ -3,6 +3,14 @@
 ## What is it?
 The DigiRoller is a Pico Pi powered pocket digital die roller designed for D&D/Tabletop gaming. Use it to make a handfull of simple rolls, or to roll a ton of dice all at once. I am posting this project because what got me into it was seeing all the other neat things people make. I wanted to maybe help inspire someone to try something too.
 
+## How does it work?
+There are 4 buttons, and a 4-way joystick
+- Joytick up/down/left/right moves the cursor (the selection)
+- First button rolls/rerolls
+- Second button clears. If there are roll results those are cleared. If not, it resets all dice
+- Third button increases the selected field
+- Fourth button decreases the selected field
+
 ## Things you will need
 - A 3D printer for the case
 - A pico pi (https://www.waveshare.com/raspberry-pi-pico.htm)
